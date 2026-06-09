@@ -7,3 +7,6 @@ karachi-aqi-predictor/
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
 └── .gitignore                   # Files to ignore
+
+url for the dashboard
+https://shiny-pumas-vanish.loca.lt/
