@@ -9,4 +9,4 @@ karachi-aqi-predictor/
 └── .gitignore                   # Files to ignore
 
 url for the dashboard
-https://shiny-pumas-vanish.loca.lt/
+https://karachi-aqi-predictor-lm82gkkwfa9vk2k3yzvqtl.streamlit.app/
