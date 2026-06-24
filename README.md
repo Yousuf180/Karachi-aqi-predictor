@@ -2,13 +2,13 @@
 
 > Real-time Air Quality Index monitoring and forecasting for Karachi, Pakistan
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karachi-aqi-predictor.streamlit.app)
+[![Streamlit App](https://karachi-aqi-predictor-lm82gkkwfa9vk2k3yzvqtl.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📊 Live Dashboard
 
-[View Live Dashboard](https://karachi-aqi-predictor.streamlit.app)
+[View Live Dashboard](https://karachi-aqi-predictor-lm82gkkwfa9vk2k3yzvqtl.streamlit.app/)
 
 ## 📝 Introduction
 
