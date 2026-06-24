@@ -23,7 +23,7 @@ Real-time Air Quality Index prediction for Karachi, Pakistan using Machine Learn
 ### Option 1: Open in Colab
 Click the badge below to open directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/karachi-aqi-predictor/blob/main/Karachi_AQI_Predictor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yousuf180/Karachi-aqi-predictor/blob/main/AQI_Forecasting_Project.ipynb)
 
 ### Option 2: Run Dashboard Locally
 ```bash
