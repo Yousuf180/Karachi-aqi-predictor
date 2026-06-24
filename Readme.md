@@ -28,8 +28,8 @@ Click the badge below to open directly in Google Colab:
 ### Option 2: Run Dashboard Locally
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/karachi-aqi-predictor.git
-cd karachi-aqi-predictor
+git clone https://github.com/Yousuf180/Karachi-aqi-predictor.git
+cd Karachi-aqi-predictor
 
 # Install dependencies
 pip install -r requirements.txt
